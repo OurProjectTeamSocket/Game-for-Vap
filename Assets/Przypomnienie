@@ -1,0 +1,15 @@
+Witajcie Panowie Kady z was chyba wie co ma robić, jeeli nie to przypominam:
+
+Duc - Si dla przeciwników - ( Jedno lecące w dół, drugie latające na boki, trzecie podążające za graczam ) dobrze by było jakby obszar na ktrrym latają horyzontalnie dało by sie modyfikowac za pomoca paska ( "[Range(min, max)]" ).
+
+Arsen - Przemieszczanie się tła do dołu - jeżeli góra obrazka będzie poniej pozycjy Y:5 wtedy resetuj pozycje mapy. ( Nie dodawaj kontrolerów ruchu takich jak: Input.GetKey / KeyCode ).
+
+( Szosa ) Kacper - poruszanie się gracza A i gracza B - gracz A ma poruszać się WSAD'em, a B strzałkami. ( Kady ma mieć auto shoota i tworzyć się gdy naciśnie się ktoryśz klawiszy do nich przypisanych ).
+
+To co zrobię ja to: grafika, UI/UX, komentarze, API i pomoc w kodzie.
+
+WSZYSTKO MA BYĆ POSEGREGOWANE BO POZABIJAM!!!! ( Doc - dokumentacja, Perfabs - gotowe obiekty gracz'y i przeciwników, sceny - wiadomo, sceny, Scripts - To te chyba wiadomo... skrypty, Sprites - to katalog na grafikę. )
+
+PS. Jak ktoś mi napisze skrypt w JS tutaj to ubiję :)
+
+PS2. Jak komuś się będzie nudziło to niech doda komponenty dźwięku do kamery i do przestrzeni.
